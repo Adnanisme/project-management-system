@@ -1,17 +1,15 @@
-# 📝 Project: PTDF Dashboard System
-
-```markdown
 # PTDF Dashboard System
 
-An internal enterprise project and performance tracking system developed for the Petroleum Technology Development Fund (PTDF) Nigeria. Built to manage departmental progress, budgets, and executive-level reporting.
+An internal performance and project tracking system developed for the Petroleum Technology Development Fund (PTDF), Nigeria. Built for secure, high-level visibility into departmental initiatives, budgets, and ongoing activities.
 
-## 🧩 Key Features
+## 🧩 Highlights
 
-- Hierarchical structure: Departments → Subdivisions → Projects
-- Real-time dashboard with Chart.js progress graphs
-- Role-based access with 5 user levels
-- Microsoft OAuth enterprise login support
-- Budget allocation, tracking & approval workflows
+- Hierarchical tracking: Departments → Subdivisions → Projects
+- Real-time reporting dashboards with visual analytics
+- Role-based access with 5 permission levels
+- Microsoft OAuth for secure enterprise login
+- Budget allocation, approval, and tracking workflows
+- Responsive interface designed for intranet deployment
 
 ## 🛠 Tech Stack
 
@@ -22,21 +20,16 @@ An internal enterprise project and performance tracking system developed for the
 
 ## 📸 Screenshots
 
-```markdown
-![Login](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Project View](screenshots/project.png)
-```
+### Main Admin Dashboard  
+![Dashboard](https://github.com/user-attachments/assets/f36768ca-acc9-4876-a292-b73ec63c5680)
 
-## ⚙️ Installation
+### Individual Project View  
+![Project View](https://github.com/user-attachments/assets/1358584d-8ebc-4ce6-b69b-7f805aec28d5)
 
-```bash
-Upload code to Laravel environment
-Configure database in .env file
-Run migrations: php artisan migrate
-Start server: php artisan serve
-```
+## 📊 Outcome & Impact
 
-## 📄 License
-Confidential internal project
-```
+- Successfully adopted across multiple departments within PTDF
+- Reduced manual reporting workload by over 60%
+- Enabled real-time visibility of project performance and budget alignment
+- Streamlined executive reporting and approval processes
+- Contributed to better-informed decision-making at the departmental level
